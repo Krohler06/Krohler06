@@ -1,16 +1,37 @@
-## Hi there 👋
+# Salut, moi c'est Jérémy 👋
 
-<!--
-**Krohler06/Krohler06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingénieur Système Linux, passionné par l'infrastructure, l'automatisation, le monitoring et le homelab.
 
-Here are some ideas to get you started:
+## 🧰 Stack & outils
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux : Ubuntu, Debian, Rocky Linux
+- Automatisation : Bash, Ansible
+- Conteneurs : Docker, Docker Compose
+- Monitoring : Grafana, Prometheus, VictoriaMetrics, Netdata
+- Infra / Homelab : Raspberry Pi, TrueNAS, WebDAV, reverse proxy
+- CI/CD : GitLab, GitHub
+
+## 🖥️ Mes specs / lab
+
+- Raspberry Pi 5 — 8 Go RAM — SSD NVMe
+- Serveurs Linux / Docker
+- Projets autour de la domotique, du monitoring et de l'automatisation
+
+## 📊 Stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krohler06&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krohler06&layout=compact&theme=transparent)
+
+## 📈 Activité GitHub
+
+[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Krohler06&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🚀 Projets qui m'intéressent
+
+- Automatisation Linux
+- Déploiement Ansible
+- Monitoring infra
+- Homelab
+- Raspberry Pi
+- Docker / self-hosting
