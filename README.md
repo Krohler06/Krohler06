@@ -8,12 +8,6 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2563eb,100:0f172a\&height=120\&section=footer)
 <br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Krohler06-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krohler06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Lemaire-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lemaire-435660175/)
-[![Homelab](https://img.shields.io/badge/Homelab-jerem--homelab.duckdns.org-2563EB?style=for-the-badge\&logo=homeassistant\&logoColor=white)](https://jerem-homelab.duckdns.org/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeremy.lemaire1503@gmail.com)
-
 </div>
 
 ---
