@@ -6,8 +6,7 @@
 
 [🇫🇷 Français](./README.md) | [🇬🇧 English](./README_EN.md)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:2563eb\&height=180\&section=header\&text=J%C3%A9r%C3%A9my%20%7C%20Linux%20%26%20Homelab\&fontSize=36\&fontColor=ffffff\&animation=fadeIn)
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=J%C3%A9r%C3%A9my%20%7C%20Linux%20%26%20Homelab&fontSize=36&fontColor=ffffff&animation=fadeIn)
 [![GitHub](https://img.shields.io/badge/GitHub-Krohler06-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krohler06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Lemaire-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lemaire-435660175/)
 [![Homelab](https://img.shields.io/badge/Homelab-jerem--homelab.duckdns.org-2563EB?style=for-the-badge\&logo=homeassistant\&logoColor=white)](https://jerem-homelab.duckdns.org/)
