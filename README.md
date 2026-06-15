@@ -1,4 +1,185 @@
 <div align="center">
+<div align="center">
+
+# 👋 Salut, moi c'est Jérémy
+
+## Linux System Engineer • Homelab • Automation • Monitoring
+
+[🇫🇷 Français](./README.md) | [🇬🇧 English](./README_EN.md)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=180&amp;section=header&amp;text=J%C3%A9r%C3%A9my%20%7C%20Linux%20%26%20Homelab&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn" alt="Jérémy | Linux & Homelab" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Krohler06-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krohler06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Lemaire-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lemaire-435660175/)
+[![Homelab](https://img.shields.io/badge/Homelab-jerem--homelab.duckdns.org-2563EB?style=for-the-badge\&logo=homeassistant\&logoColor=white)](https://jerem-homelab.duckdns.org/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeremy.lemaire1503@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Stack technique
+
+### Systèmes & OS
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/linux/FFFFFF" width="42" height="42" alt="Linux" />
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/debian/A81D33" width="42" height="42" alt="Debian" />
+      <br><sub><b>Debian</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="42" height="42" alt="Ubuntu" />
+      <br><sub><b>Ubuntu</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/centos/262577" width="42" height="42" alt="CentOS" />
+      <br><sub><b>CentOS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="42" height="42" alt="Raspberry Pi OS" />
+      <br><sub><b>RaspiOS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/windows/0078D4" width="42" height="42" alt="Windows 10" />
+      <br><sub><b>Windows 10</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Automatisation & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" alt="Shell" />
+      <br><sub><b>Shell</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/ansible/EE0000" width="42" height="42" alt="Ansible" />
+      <br><sub><b>Ansible</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/jinja/B41717" width="42" height="42" alt="Jinja" />
+      <br><sub><b>Jinja</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n" />
+      <br><sub><b>n8n</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Monitoring & Observabilité
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/grafana/F46800" width="42" height="42" alt="Grafana" />
+      <br><sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="42" height="42" alt="Prometheus" />
+      <br><sub><b>Prometheus</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/victoriametrics/621773" width="42" height="42" alt="VictoriaMetrics" />
+      <br><sub><b>Victoria</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/netdata/00AB44" width="42" height="42" alt="Netdata" />
+      <br><sub><b>Netdata</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Homelab & Self-hosting
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/truenas/0095D5" width="42" height="42" alt="TrueNAS" />
+      <br><sub><b>TrueNAS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="42" height="42" alt="Home Assistant" />
+      <br><sub><b>Home Assistant</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/pihole/96060C" width="42" height="42" alt="Pi-hole" />
+      <br><sub><b>Pi-hole</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/jellyfin/00A4DC" width="42" height="42" alt="Jellyfin" />
+      <br><sub><b>Jellyfin</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/plex/E5A00D" width="42" height="42" alt="Plex" />
+      <br><sub><b>Plex</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/tailscale/FFFFFF" width="42" height="42" alt="Tailscale" />
+      <br><sub><b>Tailscale</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Virtualisation, stockage & cloud
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/proxmox/E57000" width="42" height="42" alt="Proxmox" />
+      <br><sub><b>Proxmox</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/vmware/607078" width="42" height="42" alt="VMware" />
+      <br><sub><b>VMware</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/vmware/607078" width="42" height="42" alt="ESXi" />
+      <br><sub><b>ESXi</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/minio/C72E49" width="42" height="42" alt="MinIO" />
+      <br><sub><b>MinIO</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="42" height="42" alt="AWS" />
+      <br><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/dell/007DB8" width="42" height="42" alt="Dell PowerFlex" />
+      <br><sub><b>PowerFlex</b></sub>
+    </td>
+  </tr>
+</table>
+
+### IA & workflows
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="42" height="42" alt="GPT" />
+      <br><sub><b>GPT</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="42" height="42" alt="Claude" />
+      <br><sub><b>Claude</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 # 👋 Salut, moi c'est Jérémy
 
