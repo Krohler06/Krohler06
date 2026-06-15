@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 # 👋 Salut, moi c'est Jérémy
 
@@ -7,8 +6,7 @@
 
 [🇫🇷 Français](./README.md) | [🇬🇧 English](./README_EN.md)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=180&amp;section=header&amp;text=J%C3%A9r%C3%A9my%20%7C%20Linux%20%26%20Homelab&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn" alt="Jérémy | Linux & Homelab" />
-
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2563eb,100:0f172a\&height=120\&section=footer)
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krohler06-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krohler06)
@@ -17,6 +15,16 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeremy.lemaire1503@gmail.com)
 
 </div>
+
+---
+
+## 🧑‍💻 À propos de moi
+
+Je suis Jérémy, passionné par Linux, l'infrastructure, le hardware serveur, l'automatisation, le monitoring et les environnements homelab.
+
+J'aime comprendre comment les systèmes fonctionnent, construire des infrastructures propres, documenter mes projets et expérimenter avec des outils DevOps, self-hosted et open source.
+
+Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, mes expérimentations et mon univers technique autour de Linux, du self-hosting, du monitoring et de l'automatisation.
 
 ---
 
@@ -144,10 +152,6 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/vmware/607078" width="42" height="42" alt="VMware" />
-      <br><sub><b>VMware</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/vmware/607078" width="42" height="42" alt="ESXi" />
       <br><sub><b>ESXi</b></sub>
     </td>
     <td align="center" width="100">
@@ -180,34 +184,6 @@
   </tr>
 </table>
 
-
-# 👋 Salut, moi c'est Jérémy
-
-## Linux System Engineer • Homelab • Automation • Monitoring
-
-[🇫🇷 Français](./README.md) | [🇬🇧 English](./README_EN.md)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=J%C3%A9r%C3%A9my%20%7C%20Linux%20%26%20Homelab&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Banner" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Krohler06-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krohler06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Lemaire-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lemaire-435660175/)
-[![Homelab](https://img.shields.io/badge/Homelab-jerem--homelab.duckdns.org-2563EB?style=for-the-badge\&logo=homeassistant\&logoColor=white)](https://jerem-homelab.duckdns.org/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeremy.lemaire1503@gmail.com)
-
-</div>
-
----
-
-## 🧑‍💻 À propos de moi
-
-Je suis Jérémy, passionné par Linux, l'infrastructure, le hardware serveur, l'automatisation, le monitoring et les environnements homelab.
-
-J'aime comprendre comment les systèmes fonctionnent, construire des infrastructures propres, documenter mes projets et expérimenter avec des outils DevOps, self-hosted et open source.
-
-Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, mes expérimentations et mon univers technique autour de Linux, du self-hosting, du monitoring et de l'automatisation.
-
 ---
 
 ## 🎯 Ce qui m'intéresse
@@ -220,58 +196,6 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
 * Homelab, Raspberry Pi, Proxmox, VMware et ESXi
 * Home Assistant, Pi-hole, Jellyfin, Plex et Tailscale
 * IA appliquée aux workflows avec GPT, Claude et n8n
-
----
-
-## 🛠️ Stack technique
-
-### Systèmes & OS
-
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-111827?style=for-the-badge\&logo=debian\&logoColor=A81D33)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge\&logo=ubuntu\&logoColor=E95420)
-![CentOS](https://img.shields.io/badge/CentOS-111827?style=for-the-badge\&logo=centos\&logoColor=262577)
-![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-111827?style=for-the-badge\&logo=raspberrypi\&logoColor=A22846)
-![Windows 10](https://img.shields.io/badge/Windows%2010-111827?style=for-the-badge\&logo=windows\&logoColor=0078D6)
-
-### Automatisation & DevOps
-
-![Shell](https://img.shields.io/badge/Shell-111827?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge\&logo=gnubash\&logoColor=4EAA25)
-![Ansible](https://img.shields.io/badge/Ansible-111827?style=for-the-badge\&logo=ansible\&logoColor=EE0000)
-![Jinja](https://img.shields.io/badge/Jinja-111827?style=for-the-badge\&logo=jinja\&logoColor=B41717)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge\&logo=n8n\&logoColor=EA4B71)
-
-### Monitoring & Observabilité
-
-![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge\&logo=grafana\&logoColor=F46800)
-![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge\&logo=prometheus\&logoColor=E6522C)
-![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-111827?style=for-the-badge\&logo=victoriametrics\&logoColor=621773)
-![Netdata](https://img.shields.io/badge/Netdata-111827?style=for-the-badge\&logo=netdata\&logoColor=00AB44)
-
-### Homelab & Self-hosting
-
-![TrueNAS](https://img.shields.io/badge/TrueNAS-111827?style=for-the-badge\&logo=truenas\&logoColor=0095D5)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-111827?style=for-the-badge\&logo=homeassistant\&logoColor=41BDF5)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-111827?style=for-the-badge\&logo=pihole\&logoColor=96060C)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-111827?style=for-the-badge\&logo=jellyfin\&logoColor=00A4DC)
-![Plex](https://img.shields.io/badge/Plex-111827?style=for-the-badge\&logo=plex\&logoColor=E5A00D)
-![Tailscale](https://img.shields.io/badge/Tailscale-111827?style=for-the-badge\&logo=tailscale\&logoColor=white)
-
-### Virtualisation, stockage & cloud
-
-![Proxmox](https://img.shields.io/badge/Proxmox-111827?style=for-the-badge\&logo=proxmox\&logoColor=E57000)
-![VMware](https://img.shields.io/badge/VMware-111827?style=for-the-badge\&logo=vmware\&logoColor=white)
-![ESXi](https://img.shields.io/badge/ESXi-111827?style=for-the-badge\&logo=vmware\&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-111827?style=for-the-badge\&logo=minio\&logoColor=C72E49)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Dell PowerFlex](https://img.shields.io/badge/Dell%20PowerFlex-111827?style=for-the-badge\&logo=dell\&logoColor=007DB8)
-
-### IA & workflows
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge\&logo=openai\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge\&logo=anthropic\&logoColor=D97757)
 
 ---
 
