@@ -268,7 +268,9 @@ Puis cette ligne affichera l'image :
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krohler06&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krohler06&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krohler06&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -286,15 +288,6 @@ Puis cette ligne affichera l'image :
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krohler06&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 📈 Activité GitHub
 
