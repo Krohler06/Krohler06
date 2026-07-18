@@ -255,7 +255,8 @@ Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter de
 Pour afficher une capture de ta homepage Home Assistant, ajoute ton image ici dans le dépôt :
 
 ```text
-assets/home-assistant-homepage.png
+assets/home-assistant2.jpeg
+assets/home-assistant1.jpeg
 ```
 
 Puis cette ligne affichera l'image :
@@ -287,7 +288,6 @@ Puis cette ligne affichera l'image :
 </div>
 
 ---
-
 
 ## 📈 Activité GitHub
 
@@ -336,7 +336,7 @@ Avant de rendre un dépôt public, je vérifie toujours :
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krohler06-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krohler06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Lemaire-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lemaire-435660175/)
-[![Website](https://img.shields.io/badge/Website-Homelab-2563EB?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://jerem-homelab.duckdns.org/)
+[![Website](https://img.shields.io/badge/Website-Homelab-2563EB?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://jerem.org/)
 [![Email](https://img.shields.io/badge/Email-jeremy.lemaire1503%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeremy.lemaire1503@gmail.com)
 
 </div>
