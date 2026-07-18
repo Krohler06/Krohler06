@@ -252,16 +252,8 @@ Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter de
 
 ## 🖼️ Aperçu Home Assistant
 
-Pour afficher une capture de ta homepage Home Assistant, ajoute ton image ici dans le dépôt :
-
-```text
-assets/home-assistant2.jpeg
-assets/home-assistant1.jpeg
-```
-
-Puis cette ligne affichera l'image :
-
-![Aperçu Home Assistant](./assets/home-assistant-homepage.png)
+![Aperçu Home Assistant](./home-assistant1.jpeg)
+![Aperçu Home Assistant](./home-assistant2.jpeg)
 
 ---
 
