@@ -38,16 +38,3 @@ updates:
     labels:
       - "dependencies"
       - "docker"
-
-  # GitHub Actions
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-      day: "monday"
-    open-pull-requests-limit: 5
-    reviewers:
-      - "Krohler06"
-    labels:
-      - "dependencies"
-      - "github-actions"
