@@ -49,7 +49,7 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
       <br><sub><b>RaspiOS</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/windows/0078D4" width="42" height="42" alt="Windows 10" />
+      <img src="https://img.icons8.com/color/48/windows-10.png" width="42" height="42" alt="Windows 10" />
       <br><sub><b>Windows 10</b></sub>
     </td>
   </tr>
@@ -153,7 +153,7 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
       <br><sub><b>MinIO</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="42" height="42" alt="AWS" />
+      <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="42" height="42" alt="AWS" />
       <br><sub><b>AWS</b></sub>
     </td>
     <td align="center" width="100">
@@ -168,11 +168,15 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="42" height="42" alt="GPT" />
+      <img src="https://img.icons8.com/color/48/chatgpt.png" width="42" height="42" alt="GPT" />
       <br><sub><b>GPT</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="42" height="42" alt="Claude" />
+      <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/claude-ai.png" width="42" height="42" alt="Claude" />
+      <br><sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://info.mammouth.ai/img/mammouth/logo.png" width="42" height="42" alt="Mammouth AI" />
       <br><sub><b>Claude</b></sub>
     </td>
   </tr>
