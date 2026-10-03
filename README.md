@@ -203,13 +203,13 @@ Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter de
 
 | Catégorie         | Matériel / Stack                                                                                |
 | ----------------- | ----------------------------------------------------------------------------------------------- |
-| 💻 PC principal   | CPU : `i7 / 1800X à vérifier` · RAM : `8 Go DDR4` · GPU : `NVIDIA GTX 1660` · OS : `Windows 10` |
+| 💻 PC principal   | CPU : `i7 / 1800X` · RAM : `2x 8 Go DDR4` · GPU : `NVIDIA GTX 1660` · OS : `Windows 10` |
 | 🧪 Homelab        | CubieBoard `4 Go`                                                                               |
 | 🍓 Raspberry Pi 5 | `8 Go RAM` · Dual `256 Go NVMe` · Docker host                                                   |
-| 🗄️ NAS / TrueNAS | Mac Mini `A1357`                                                                                |
+| 🗄️ Mac Mini | Modèle `A1357` CPU: `Intel Code 2 Duo` RAM: `6 Go RAM` · HDD: `250 Go SSD` · APK Builder                                   |
 | 🐳 Docker         | Raspberry Pi 5                                                                                  |
 | 📊 Monitoring     | Raspberry Pi 3                                                                                  |
-| 🌐 Réseau         | TP-Link · Juniper EX3400                                                                        |
+| 🌐 Réseau         | TP-Link · Juniper EX3400 - DLink POE - Ubiquiti Switch                                          |
 | 🏡 Domotique      | Home Assistant                                                                                  |
 | 🎬 Média          | Jellyfin · Plex                                                                                 |
 | 🔐 Réseau privé   | Tailscale                                                                                       |
