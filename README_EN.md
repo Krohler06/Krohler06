@@ -138,7 +138,7 @@ My approach: prioritize systems that are simple to operate, observable, secure a
 
 My homelab allows me to learn, test, break, rebuild and document solutions around Linux, Docker, monitoring, home automation and self-hosting. It's my laboratory for experimentation with all DevOps technologies.
 
-**For a detailed inventory of all my equipment (hardware, specifications, status)**, see the [**HARDWARE.md**](./HARDWARE.md) file.
+**For a detailed inventory of all my equipment (hardware, specifications, status)**, see the [**HARDWARE**](./HARDWARE_EN.md) file.
 
 ---
 
