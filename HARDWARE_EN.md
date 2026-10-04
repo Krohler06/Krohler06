@@ -1,9 +1,5 @@
 # 🏠 Hardware Inventory - Homelab
 
-[🇫🇷 Français](#français) | [🇬🇧 English](#english)
-
----
-
 ## 📋 Table of Contents
 
 1. [Computing Infrastructure](#computing-infrastructure)
@@ -12,80 +8,6 @@
 4. [Portable Devices & Consoles](#portable-devices--consoles)
 5. [Remote Infrastructure](#remote-infrastructure)
 6. [Technical Specifications](#technical-specifications)
-
----
-
-## Français
-
-### 🖥️ Infrastructure de Calcul
-
-| Appareil | Marque | Modèle | CPU | RAM | Stockage | GPU | OS | Utilisation |
-|:----------:|--------|--------|-----|-----|----------|-----|----|----|
-| <img src="https://cdn.simpleicons.org/intel/0071C5" width="32" height="32" alt="Intel" /> PC Gaming | Intel | i7-1800X | i7-1800X | 2x 8 Go DDR4 | 480 Go NVMe | NVIDIA GTX 1660 | Windows 10 | Gaming & Dev |
-| <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> Raspberry Pi 5 | Raspberry Pi | RPi 5 | ARM Cortex-A72 | 8 Go RAM | 256 Go NVMe + 480 Go NVMe | Intel Integré | Linux | Docker Host & Primary Homelab |
-| <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> Mac Mini | Apple | A1357 | Intel Core 2 Duo | 6 Go RAM | 250 Go SSD | N/A | macOS | APK Builder |
-| <img src="https://cdn.simpleicons.org/cubie/000000" width="32" height="32" alt="CubieBoard" /> CubieBoard | Cubieboard | CB4 | ARM A20 | 4 Go RAM | 16 Go eMMC | N/A | Linux | Développement & Tests |
-| <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> Raspberry Pi 3 | Raspberry Pi | RPi 3B+ | ARM Cortex-A53 | 1 Go RAM | 32 Go microSD | N/A | Linux | Monitoring Stack |
-| <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> Raspberry Pi 5 Distant | Raspberry Pi | RPi 5 | ARM Cortex-A72 | 8 Go RAM | microSD 128 GO | N/A | Linux | Infrastructure Distribuée |
-| <img src="https://cdn.simpleicons.org/dell/007DB8" width="32" height="32" alt="Dell" /> PC NUC Dell | Dell | D08U | Intel Core i5 | 8 Go RAM | 256 Go SSD | N/A | Linux | Bureautique |
-
-### 💾 Stockage & NAS
-
-| Appareil | Marque | Modèle | RAID | Capacité | Utilisation | Spécifications |
-|----------|--------|--------|------|----------|------------|---|
-| <img src="https://cdn.simpleicons.org/synology/000000" width="32" height="32" alt="Synology" /> NAS Mini-ITX | Synology | NAS-04 | RAID 5 | 4x 1To (3.6 To utile) | Stockage Principal & Backup | Mini-ITX Form Factor |
-| <img src="https://cdn.simpleicons.org/truenas/000000" width="32" height="32" alt="TrueNAS" /> TrueNAS | TrueNAS | Système | RAID | À configurer | WebDAV & Stockage Distribué | Self-Hosted |
-
-### 🌐 Réseau & Connectivité
-
-| Composant | Marque | Modèle | Type | Spécifications | Utilisation |
-|-----------|--------|--------|------|---|---|
-| <img src="https://cdn.simpleicons.org/ubiquiti/0099FF" width="32" height="32" alt="Ubiquiti" /> Switch Réseau | Ubiquiti | UniFi Switch 8 60W | PoE Switch | 8 ports + PoE 60W | Alimentation & Données |
-| <img src="https://cdn.simpleicons.org/ubiquiti/0099FF" width="32" height="32" alt="Ubiquiti" /> Routeur/Firewall | Ubiquiti | USG (UniFi Security Gateway) | Gateway | Gestion réseau centralisée | Routage & Sécurité |
-| <img src="https://cdn.simpleicons.org/tplink/000000" width="32" height="32" alt="TP-Link" /> Switch TP-Link | TP-Link | À déterminer | Switch Géré | - | Réseau Auxiliaire |
-| <img src="https://cdn.simpleicons.org/dlink/0000FF" width="32" height="32" alt="D-Link" /> PoE D-Link | D-Link | À déterminer | Injecteur PoE | - | Alimentation Appareils |
-| <img src="https://cdn.simpleicons.org/tailscale/09F7FF" width="32" height="32" alt="Tailscale" /> VPN | Tailscale | Tailscale VPN | VPN Overlay | Mesh Network | Accès Distant Sécurisé |
-
-### 📱 Appareils Portables & Consoles
-
-| Appareil | Marque | Modèle | Écran | Utilisation | OS |
-|----------|--------|--------|-------|---|---|
-| <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> iPad Air | Apple | iPad Air 4 Cellular | 10.9" | Interface Homelab | iPadOS |
-| <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> iPad Air | Apple | iPad Air 7 | 11" | Dashboard Mobile | iPadOS |
-| <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> iPad | Apple | iPad 1 | 9.7" | Wallpanel Legacy | iPadOS |
-| <img src="https://cdn.simpleicons.org/samsung/1428A0" width="32" height="32" alt="Samsung" /> Tablette Samsung | Samsung | Galaxy Tab A 10 2018 | 10.1" | Affichage Domotique | Android |
-| <img src="https://cdn.simpleicons.org/nintendo/E60012" width="32" height="32" alt="Nintendo" /> Console Nintendo | Nintendo | Switch V1 | 6.2" (Portable) | Loisir | Nintendo Switch OS |
-| <img src="https://cdn.simpleicons.org/nintendo/E60012" width="32" height="32" alt="Nintendo" /> Console Nintendo | Nintendo | Switch OLED | 7.0" (OLED) | Loisir | Nintendo Switch OS |
-| <img src="https://cdn.simpleicons.org/playstation/003087" width="32" height="32" alt="PlayStation" /> Console Sony | Sony | PlayStation 4 | 4K | Multimédia & Gaming | PS4 OS |
-| <img src="https://cdn.simpleicons.org/playstation/003087" width="32" height="32" alt="PlayStation" /> Console Sony | Sony | PlayStation 5 | 4K | Gaming Performance | PS5 OS |
-
-### ☁️ Infrastructure Distante
-
-| Service | Fournisseur | Type | Configuration | Utilisation |
-|---------|------------|------|---|---|
-| <img src="https://cdn.simpleicons.org/ionos/003D7A" width="32" height="32" alt="IONOS" /> Machine Virtuelle | IONOS | VPS | VM Linux | Services Cloud & Tests |
-| <img src="https://cdn.simpleicons.org/oracle/F80000" width="32" height="32" alt="Oracle" /> Machine Virtuelle | Oracle Cloud | VM | Linux ARM | Infrastructure Distribuée Gratuite |
-
-### 🔧 Spécifications Techniques
-
-#### Réseau
-- **Protocole** : Ethernet Gigabit + PoE
-- **VPN** : Tailscale pour accès distant sécurisé
-- **DNS/Sécurité** : Pi-hole sur Raspberry Pi 3
-
-#### Stockage
-- **Sauvegarde** : RAID 5 sur NAS Synology
-- **Objet** : MinIO pour stockage distribué
-- **Synchronisation** : WebDAV via TrueNAS
-
-#### Monitoring
-- **Stack** : Raspberry Pi 3 (Prometheus + Grafana + VictoriaMetrics)
-- **Agent** : Netdata sur tous les nœuds
-
-#### Virtualisation
-- **Proxmox** : Instances sur infrastructure principale
-- **VMware ESXi** : Tests & développement
-- **Docker** : Déploiement sur Raspberry Pi 5
 
 ---
 
