@@ -36,9 +36,9 @@
 |:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Entrée de site | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/orange.png" width="32" height="32" alt="Orange" /> | LiveBox V6 | Firewall | Gestion réseau centralisée | Routage & Sécurité |
 | Switch Réseau | <img src="https://cdn.simpleicons.org/ubiquiti/0099FF" width="32" height="32" alt="Ubiquiti" /> | UniFi Switch 8 60W | PoE Switch | 8 ports + PoE 60W | Alimentation & Données |
-| Routeur/Firewall | <img src="https://cdn.simpleicons.org/ubiquiti/0099FF" width="32" height="32" alt="Ubiquiti" /> | USG (UniFi Security Gateway) | Gateway | Gestion réseau centralisée | Routage & Sécurité |
-| Switch TP-Link | <img src="https://cdn.simpleicons.org/tplink/000000" width="32" height="32" alt="TP-Link" /> | -- | Switch Géré | - | Réseau Auxiliaire |
-| Switch D-Link | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/d-link.png" width="32" height="32" alt="D-Link" /> | -- | Injecteur PoE | - | Alimentation Appareils |
+| Routeur/Firewall | <img src="https://cdn.simpleicons.org/ubiquiti/0099FF" width="32" height="32" alt="Ubiquiti" /> | USG | Gateway | Gestion réseau centralisée | Routage & Sécurité |
+| Switch TP-Link | <img src="https://cdn.simpleicons.org/tplink/000000" width="32" height="32" alt="TP-Link" /> | -- | Switch | - | Réseau Auxiliaire |
+| Switch D-Link | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/d-link.png" width="32" height="32" alt="D-Link" /> | -- | Switch + Injecteur PoE | - | Alimentation Appareils |
 | VPN | <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/tailscale.png" width="32" height="32" alt="Tailscale" /> | Tailscale VPN | VPN Overlay | Mesh Network | Accès Distant Sécurisé |
 
 ### 📱 Appareils Portables & Consoles
@@ -49,9 +49,9 @@
 | iPad Air 5 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A1822 128 Go | 11" | Liseuse & Loisir | iPadOS 16.7.11 |
 | iPad 3 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-alt.png" width="32" height="32" alt="Apple" /> | A1416 64 GO | 9.7" | Wallpanel Legacy | iPadOS 9.3.5 |
 | Samsung Tab A | <img src="https://cdn.simpleicons.org/samsung/1428A0" width="32" height="32" alt="Samsung" /> | SM-T510 32 Go | 10.1" | Test APK | Android 11 |
-| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch V1 | 6.2" (Portable) | Gaming | Nintendo Switch OS |
-| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch OLED | 7.0" (OLED) | Gaming | Nintendo Switch OS |
-| Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation4/brand.png" width="32" height="32" alt="PlayStation" /> | PlayStation 4 | 4K | Gaming | PS4 OS |
+| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch V1 | 6.2" | Gaming | Nintendo Switch OS |
+| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch OLED | 7.0" | Gaming | Nintendo Switch OS |
+| Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation4/brand.png" width="32" height="32" alt="PlayStation" /> | PlayStation 4 | Full HD | Gaming | PS4 OS |
 | Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation5/brand.png" width="32" height="32" alt="PlayStation" />  | PlayStation 5 | 4K | Gaming Performance | PS5 OS |
 | RecalBox |<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/recalbox.png" width="32" height="32" alt="RecalBox" /> | RPi 3B+ | N/A | Retro Gaming | GNU/Linux |
 
