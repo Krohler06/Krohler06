@@ -76,7 +76,10 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
       <br><sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n" />
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="Portainer" />
+      <br><sub><b>n8n</b></sub>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="N8N" />
       <br><sub><b>n8n</b></sub>
     </td>
   </tr>
@@ -110,10 +113,6 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/truenas/0095D5" width="42" height="42" alt="TrueNAS" />
-      <br><sub><b>TrueNAS</b></sub>
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="42" height="42" alt="Home Assistant" />
       <br><sub><b>Home Assistant</b></sub>
     </td>
@@ -132,6 +131,72 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/tailscale/FFFFFF" width="42" height="42" alt="Tailscale" />
       <br><sub><b>Tailscale</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Langages
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png" width="42" height="42" alt="NodeJS" />
+      <br><sub><b>Proxmox</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/html5.png" width="42" height="42" alt="HTML" />
+      <br><sub><b>ESXi</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png" width="42" height="42" alt="CSS" />
+      <br><sub><b>MinIO</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/swift.png" width="42" height="42" alt="Swift" />
+      <br><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://dashboardicons.com/api/icons/external/simpleicons/gnubash/brand.png" width="42" height="42" alt="Bash" />
+      <br><sub><b>PowerFlex</b></sub>
+      </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/javascript.png" width="42" height="42" alt="JavaScript" />
+      <br><sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/dart.png" width="42" height="42" alt="Dart" />
+      <br><sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/python.png" width="42" height="42" alt="Python" />
+      <br><sub><b>n8n</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Docker et Applications
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/android-robot.png" width="42" height="42" alt="Build APK" />
+      <br><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/signal.png" width="42" height="42" alt="Signal BOT" />
+      <br><sub><b>PowerFlex</b></sub>
+      </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/caddy.png" width="42" height="42" alt="Caddy" />
+      <br><sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/wud.png" width="42" height="42" alt="Whats Up" />
+      <br><sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/uptime-kuma.png" width="42" height="42" alt="Uptime Kuma" />
+      <br><sub><b>n8n</b></sub>
     </td>
   </tr>
 </table>
@@ -205,15 +270,16 @@ Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter de
 | ----------------- | ----------------------------------------------------------------------------------------------- |
 | 💻 PC principal   | CPU : `i7 / 1800X` · RAM : `2x 8 Go DDR4` · GPU : `NVIDIA GTX 1660` · OS : `Windows 10` |
 | 🧪 Homelab        | CubieBoard `4 Go`                                                                               |
-| 🍓 Raspberry Pi 5 | `8 Go RAM` · Dual `256 Go NVMe` · Docker host                                                   |
+| 🍓 Raspberry Pi 5 | `8 Go RAM` · HDD `256 Go NVMe` + `480 Go NVMe` · Docker host                                                   |
 | 🗄️ Mac Mini | Modèle `A1357` CPU: `Intel Code 2 Duo` RAM: `6 Go RAM` · HDD: `250 Go SSD` · APK Builder                                   |
 | 🐳 Docker         | Raspberry Pi 5                                                                                  |
 | 📊 Monitoring     | Raspberry Pi 3                                                                                  |
-| 🌐 Réseau         | TP-Link · Juniper EX3400 - DLink POE - Ubiquiti Switch                                          |
+| 🌐 Réseau         | TP-Link - DLink POE - Ubiquiti Switch                                          |
 | 🏡 Domotique      | Home Assistant                                                                                  |
 | 🎬 Média          | Jellyfin · Plex                                                                                 |
 | 🔐 Réseau privé   | Tailscale                                                                                       |
 | 🧱 DNS / Sécurité | Pi-hole                                                                                         |
+| 🧱 Surveillance | Cameras + Enregistreur HIKVision                                                                 |
 
 ---
 
