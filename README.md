@@ -134,14 +134,6 @@ Mon approche : privilégier des systèmes simples à exploiter, observables, sé
 
 ---
 
-## 🏠 Mon homelab
-
-Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter des solutions autour de Linux, Docker, du monitoring, de la domotique et du self-hosting. C'est mon laboratoire d'expérimentation pour toutes les technologies DevOps.
-
-**Pour un inventaire détaillé de tous mes équipements (matériel, spécifications, statut)**, consulte le fichier [**HARDWARE.md**](./HARDWARE.md).
-
----
-
 ## 🏠 Homelab
 
 Mon homelab est un environnement d'apprentissage et de validation : je peux y déployer, mesurer, casser, reconstruire et documenter des solutions Linux, Docker, monitoring, domotique et self-hosting.
@@ -155,7 +147,7 @@ Mon homelab est un environnement d'apprentissage et de validation : je peux y d�
 | 🏡 Services | Home Assistant, Pi-hole, Jellyfin, Plex et Tailscale |
 | 🧱 Sécurité | Caméras et enregistreur HIKVision, DNS filtrant et accès privé |
 
-> Les détails matériels et l'inventaire évolutif sont documentés dans **[HARDWARE.md](./HARDWARE.md)**
+> Les détails matériels et l'inventaire évolutif sont documentés dans **[HARDWARE](./HARDWARE.md)**
 
 ---
 
