@@ -15,13 +15,13 @@
 
 | Appareil | Marque | Modèle | CPU | RAM | Stockage | GPU | OS | Utilisation |
 |:----------:|:--------:|--------|-----|-----|----------|-----|----|----|
-|  PC Gaming | <img src="https://cdn.simpleicons.org/intel/0071C5" width="32" height="32" alt="Intel" /> | DIY | Ryzen 7 - 1800X | 2x 8 Go DDR4 | 480 Go NVMe | NVIDIA GTX 1660 | Windows 10 | Gaming & Dev |
-|  Raspberry Pi 5 | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 5 | ARM Cortex-A72 | 8 Go RAM | 256 Go NVMe + 480 Go NVMe | Intel Integré | Linux | Docker Host & Primary Homelab |
-|  Mac Mini | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | A1357 | Intel Core 2 Duo | 6 Go RAM | 250 Go SSD | N/A | macOS | APK Builder |
-|  CubieBoard | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/shadow.png" width="32" height="32" alt="CubieBoard" /> | CB4 | ARM A20 | 4 Go RAM | 16 Go eMMC | N/A | Linux | Développement & Tests |
-|  Raspberry Pi 3 |<img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 3B+ | ARM Cortex-A53 | 1 Go RAM | 32 Go microSD | N/A | Linux | Monitoring Stack |
-|  Raspberry Pi 5 Distant | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 5 | ARM Cortex-A72 | 8 Go RAM | microSD 128 GO | N/A | Linux | Infrastructure Distribuée |
-|  PC NUC Dell | <img src="https://cdn.simpleicons.org/dell/007DB8" width="32" height="32" alt="Dell" /> | D08U | Intel Core i5 | 8 Go RAM | 256 Go SSD | N/A | Linux | Bureautique |
+| PC Gaming | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/amdradeoncloud-color.png" width="32" height="32" alt="Intel" /> | DIY | Ryzen 7 - 1800X | 2x 8 Go DDR4 | 480 Go NVMe | NVIDIA GTX 1660 | Windows 10 | Gaming & Dev |
+| Raspberry Pi 5 | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 5 | ARM Cortex-A72 | 8 Go RAM | 256 Go NVMe + 480 Go NVMe | Intel Integré | Linux | Docker Host & Primary Homelab |
+| Mac Mini | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A1357 | Intel Core 2 Duo | 6 Go RAM | 250 Go SSD | N/A | macOS | APK Builder |
+| CubieBoard | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/shadow.png" width="32" height="32" alt="CubieBoard" /> | CB4 | ARM A20 | 4 Go RAM | 16 Go eMMC | N/A | Linux | Développement & Tests |
+| Raspberry Pi 3 |<img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 3B+ | ARM Cortex-A53 | 1 Go RAM | 32 Go microSD | N/A | Linux | Monitoring Stack |
+| Raspberry Pi 5 Distant | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 5 | ARM Cortex-A72 | 8 Go RAM | microSD 128 GO | N/A | Linux | Infrastructure Distribuée |
+| PC NUC | <img src="https://cdn.simpleicons.org/dell/007DB8" width="32" height="32" alt="Dell" /> | D08U | Intel Core i5 | 8 Go RAM | 256 Go SSD | N/A | Linux | Bureautique |
 
 ### 💾 Stockage & NAS
 
@@ -45,9 +45,9 @@
 
 | Appareil | Marque | Modèle | Écran | Utilisation | OS |
 |:----------:|:--------:|--------|-------|---|---|
-| iPad Air 8 | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | A2429 Cellular 32 Go | 10.9" | Interface Homelab | iPadOS 26.6 |
-| iPad Air 5 | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | A1822 128 Go | 11" | Liseuse & Loisir | iPadOS 16.7.11 |
-| iPad 3 | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | A1416 64 GO | 9.7" | Wallpanel Legacy | iPadOS 9.3.5 |
+| iPad Air 8 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A2429 Cellular 32 Go | 10.9" | Interface Homelab | iPadOS 26.6 |
+| iPad Air 5 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A1822 128 Go | 11" | Liseuse & Loisir | iPadOS 16.7.11 |
+| iPad 3 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-alt.png" width="32" height="32" alt="Apple" /> | A1416 64 GO | 9.7" | Wallpanel Legacy | iPadOS 9.3.5 |
 | Samsung Tab A | <img src="https://cdn.simpleicons.org/samsung/1428A0" width="32" height="32" alt="Samsung" /> | SM-T510 32 Go | 10.1" | Test APK | Android 11 |
 | Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch V1 | 6.2" (Portable) | Gaming | Nintendo Switch OS |
 | Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch OLED | 7.0" (OLED) | Gaming | Nintendo Switch OS |
