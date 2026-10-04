@@ -15,13 +15,13 @@
 
 | Appareil | Marque | Modèle | CPU | RAM | Stockage | GPU | OS | Utilisation |
 |:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| PC Gaming | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/amdradeoncloud-color.png" width="32" height="32" alt="Intel" /> | DIY | Ryzen 7 - 1800X | 2x 8 Go DDR4 | 480 Go NVMe | NVIDIA GTX 1660 | Windows 10 | Gaming & Dev |
+| PC Gaming | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/amdradeoncloud-color.png" width="32" height="32" alt="Intel" /> | DIY | Ryzen 7 - 1800X | 1x 16 Go DDR4 | 480 Go NVMe | NVIDIA GTX 1660 | Windows 10 | Gaming & Dev |
 | Raspberry Pi 5 | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 5 | ARM Cortex-A72 | 8 Go RAM | 256 Go NVMe + 480 Go NVMe | Intel Integré | Linux | Docker Host & Primary Homelab |
 | Mac Mini | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A1357 | Intel Core 2 Duo | 6 Go RAM | 250 Go SSD | N/A | macOS | APK Builder |
-| CubieBoard | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/shadow.png" width="32" height="32" alt="CubieBoard" /> | CB4 | ARM A20 | 4 Go RAM | 16 Go eMMC | N/A | Linux | Développement & Tests |
+| Shadow PC | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/shadow.png" width="32" height="32" alt="CubieBoard" /> | Shadow Box V1 | AMD GX-224IJ | 8 Go RAM DDR4 | 128Go MicroSD | AMD Radeon R4E | HAOS 2026.9.4 | Développement & Tests |
 | Raspberry Pi 3 |<img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 3B+ | ARM Cortex-A53 | 1 Go RAM | 32 Go microSD | N/A | Linux | Monitoring Stack |
 | Raspberry Pi 5 Distant | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 5 | ARM Cortex-A72 | 8 Go RAM | microSD 128 GO | N/A | Linux | Infrastructure Distribuée |
-| PC NUC | <img src="https://cdn.simpleicons.org/dell/007DB8" width="32" height="32" alt="Dell" /> | D08U | Intel Core i5 | 8 Go RAM | 256 Go SSD | N/A | Linux | Bureautique |
+| PC NUC | <img src="https://cdn.simpleicons.org/dell/007DB8" width="32" height="32" alt="Dell" /> | OptiPlex 3020M | Celeron G1840T 2.50GHz | 2x 8 Go RAM DDR3 | 256 Go SSD | Intel HD Graphic | Windows 10 | Bureautique |
 
 ### 💾 Stockage & NAS
 
