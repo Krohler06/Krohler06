@@ -105,6 +105,10 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
       <img src="https://cdn.simpleicons.org/netdata/00AB44" width="42" height="42" alt="Netdata" />
       <br><sub><b>Netdata</b></sub>
     </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/homepage.png" width="42" height="42" alt="Homelab" />
+      <br><sub><b>Homepage</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -140,36 +144,36 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png" width="42" height="42" alt="NodeJS" />
-      <br><sub><b>Proxmox</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nodejs.png" width="42" height="42" alt="NodeJS" />
+      <br><sub><b>NodeJS</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/html5.png" width="42" height="42" alt="HTML" />
-      <br><sub><b>ESXi</b></sub>
+      <br><sub><>HTML</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png" width="42" height="42" alt="CSS" />
-      <br><sub><b>MinIO</b></sub>
+      <br><sub><b>CSS</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/swift.png" width="42" height="42" alt="Swift" />
-      <br><sub><b>AWS</b></sub>
+      <br><sub><b>Swift</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://dashboardicons.com/api/icons/external/simpleicons/gnubash/brand.png" width="42" height="42" alt="Bash" />
-      <br><sub><b>PowerFlex</b></sub>
+      <br><sub><b>Bash</b></sub>
       </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/javascript.png" width="42" height="42" alt="JavaScript" />
-      <br><sub><b>n8n</b></sub>
+      <br><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/dart.png" width="42" height="42" alt="Dart" />
-      <br><sub><b>n8n</b></sub>
+      <br><sub><b>Dart</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/python.png" width="42" height="42" alt="Python" />
-      <br><sub><b>n8n</b></sub>
+      <br><sub><b>Python</b></sub>
     </td>
   </tr>
 </table>
@@ -180,23 +184,23 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/android-robot.png" width="42" height="42" alt="Build APK" />
-      <br><sub><b>AWS</b></sub>
+      <br><sub><b>Build APK</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/signal.png" width="42" height="42" alt="Signal BOT" />
-      <br><sub><b>PowerFlex</b></sub>
+      <br><sub><b>Signal BOT</b></sub>
       </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/caddy.png" width="42" height="42" alt="Caddy" />
-      <br><sub><b>n8n</b></sub>
+      <br><sub><b>Caddu</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/wud.png" width="42" height="42" alt="Whats Up" />
-      <br><sub><b>n8n</b></sub>
+      <br><sub><b>What's Up Docker</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/uptime-kuma.png" width="42" height="42" alt="Uptime Kuma" />
-      <br><sub><b>n8n</b></sub>
+      <br><sub><b>Uptime Kuma</b></sub>
     </td>
   </tr>
 </table>
@@ -242,7 +246,7 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
     </td>
     <td align="center" width="100">
       <img src="https://info.mammouth.ai/img/mammouth/logo.png" width="42" height="42" alt="Mammouth AI" />
-      <br><sub><b>Claude</b></sub>
+      <br><sub><b>Mammouth AI</b></sub>
     </td>
   </tr>
 </table>
