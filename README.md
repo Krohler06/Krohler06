@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Salut, moi c'est Jérémy
@@ -76,8 +77,9 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
       <br><sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="Portainer" />
-      <br><sub><b>n8n</b></sub>
+      <img src="https://cdn.simpleicons.org/portainer/13BEF9" width="42" height="42" alt="Portainer" />
+      <br><sub><b>Portainer</b></sub>
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="N8N" />
       <br><sub><b>n8n</b></sub>
@@ -149,7 +151,7 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/html5.png" width="42" height="42" alt="HTML" />
-      <br><sub><>HTML</b></sub>
+      <br><sub><b>HTML</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png" width="42" height="42" alt="CSS" />
@@ -192,7 +194,7 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
       </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/caddy.png" width="42" height="42" alt="Caddy" />
-      <br><sub><b>Caddu</b></sub>
+      <br><sub><b>Caddy</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/wud.png" width="42" height="42" alt="Whats Up" />
@@ -270,20 +272,24 @@ Mon profil GitHub me sert de portfolio personnel pour présenter mes projets, me
 
 Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter des solutions autour de Linux, Docker, du monitoring, de la domotique et du self-hosting.
 
-| Catégorie         | Matériel / Stack                                                                                |
+Un aperçu rapide ci-dessous — **l'inventaire complet et détaillé (marques, modèles, specs, statuts) est disponible dans [`HARDWARE.md`](./HARDWARE.md)**.
+
+| Catégorie         | Résumé                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------- |
-| 💻 PC principal   | CPU : `i7 / 1800X` · RAM : `2x 8 Go DDR4` · GPU : `NVIDIA GTX 1660` · OS : `Windows 10` |
-| 🧪 Homelab        | CubieBoard `4 Go`                                                                               |
-| 🍓 Raspberry Pi 5 | `8 Go RAM` · HDD `256 Go NVMe` + `480 Go NVMe` · Docker host                                                   |
-| 🗄️ Mac Mini | Modèle `A1357` CPU: `Intel Code 2 Duo` RAM: `6 Go RAM` · HDD: `250 Go SSD` · APK Builder                                   |
-| 🐳 Docker         | Raspberry Pi 5                                                                                  |
-| 📊 Monitoring     | Raspberry Pi 3                                                                                  |
-| 🌐 Réseau         | TP-Link - DLink POE - Ubiquiti Switch                                          |
-| 🏡 Domotique      | Home Assistant                                                                                  |
-| 🎬 Média          | Jellyfin · Plex                                                                                 |
-| 🔐 Réseau privé   | Tailscale                                                                                       |
-| 🧱 DNS / Sécurité | Pi-hole                                                                                         |
-| 🧱 Surveillance | Cameras + Enregistreur HIKVision                                                                 |
+| 💻 Poste de travail | PC principal (i7/1800X, GTX 1660, Windows 10) + Dell NUC D08U                                  |
+| 🖥️ Serveurs       | 2× Raspberry Pi 5, Raspberry Pi 3, Mac Mini A1357 (builder APK), CubieBoard                      |
+| 🗄️ Stockage       | NAS-04 Mini-ITX · TrueNAS RAID 5 (4×1 To) · MinIO                                                |
+| ☁️ Cloud           | VM IONOS · VM Oracle Cloud                                                                       |
+| 🌐 Réseau          | Ubiquiti USG + UniFi US 8 60W · TP-Link · D-Link POE                                             |
+| 🏡 Domotique       | Home Assistant · Wallpanel sur iPad                                                              |
+| 📹 Surveillance    | NVR HIKVision 7600 + DVR 16 canaux                                                                |
+| 🎬 Média           | Jellyfin · Plex                                                                                  |
+| 🔐 Réseau privé    | Tailscale                                                                                        |
+| 🧱 DNS / Sécurité  | Pi-hole                                                                                          |
+| 📱 Mobiles/tablettes | iPad Air 4/7, iPad 1, Samsung Tab A 10                                                          |
+| 🎮 Gaming          | Switch V1/OLED, PS4, PS5                                                                          |
+
+👉 **[Voir l'inventaire matériel complet](./HARDWARE.md)**
 
 ---
 
