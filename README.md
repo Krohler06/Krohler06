@@ -276,7 +276,7 @@ Un aperçu rapide ci-dessous — **l'inventaire complet et détaillé (marques, 
 
 | Catégorie         | Résumé                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------- |
-| 💻 Poste de travail | PC principal (i7/1800X, GTX 1660, Windows 10) + Dell NUC D08U                                  |
+| 💻 Poste de travail | PC principal (Ryzen 7 - 1800X, GTX 1660, Windows 10) + Dell NUC D08U                                  |
 | 🖥️ Serveurs       | 2× Raspberry Pi 5, Raspberry Pi 3, Mac Mini A1357 (builder APK), CubieBoard                      |
 | 🗄️ Stockage       | NAS-04 Mini-ITX · TrueNAS RAID 5 (4×1 To) · MinIO                                                |
 | ☁️ Cloud           | VM IONOS · VM Oracle Cloud                                                                       |
