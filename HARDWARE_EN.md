@@ -84,13 +84,3 @@
 - **Docker** : Deployment on Raspberry Pi 5
 
 ---
-
-## 📝 Notes
-
-- **TP-Link & D-Link** : To be completed with exact models
-- **Capacities & Specs** : To be refined according to current needs
-- **Remote Infrastructure** : Scalable and modular
-
----
-
-**Last updated** : October 2026 | **Status** : Work in Progress ✏️
