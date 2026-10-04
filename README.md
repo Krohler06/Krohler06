@@ -12,88 +12,125 @@
 
 ---
 
-## 📑 Table des matières
+## 📚 Sommaire
 
-- [À propos de moi](#-à-propos-de-moi)
-- [Stack technique](#-stack-technique)
-- [Ce qui m'intéresse](#-ce-qui-mintéresse)
-- [Mon homelab](#-mon-homelab)
-- [Ce sur quoi je travaille](#-ce-sur-quoi-je-travaille)
-- [Ce que j'expérimente](#-ce-que-jexpérimente)
-- [Projets mis en avant](#-projets-mis-en-avant)
-- [Aperçu Home Assistant](#-aperçu-home-assistant)
-- [Stats GitHub](#-stats-github)
-- [Idées de dépôts à publier](#-idées-de-dépôts-à-publier)
-- [Avant de publier un dépôt](#-avant-de-publier-un-dépôt)
-- [Contact](#-contact)
+- [À propos](#about)
+- [Stack technique](#stack-technique)
+  - [Systèmes & OS](#-systèmes--os)
+  - [DevOps & automatisation](#-devops--automatisation)
+  - [Monitoring & observabilité](#-monitoring--observabilité)
+  - [Homelab & self-hosting](#-homelab--self-hosting)
+  - [Langages & développement](#-langages--développement)
+  - [Virtualisation, stockage & cloud](#-virtualisation-stockage--cloud)
+  - [IA & workflows](#-ia--workflows)
+- [Centres d'intérêt](#centres-dinteret)
+- [Homelab](#homelab)
+- [Projets](#projets)
+- [Statistiques GitHub](#statistiques-github)
+- [Contact](#contact)
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 À propos
 
-Je m'appelle Jérémy. Ingénieur Linux et passionné par l'infrastructure, l'automatisation, le monitoring et les environnements homelab, j'axe mon expertise sur la construction et l'exploitation de systèmes robustes et documentés.
+Je suis Jérémy, passionné par l'administration système Linux, le hardware serveur, l'automatisation et la supervision. Mon GitHub est un portfolio de projets, d'expérimentations et de documentation autour des environnements **open source**, **self-hosted** et **DevOps**.
 
-Ma spécialité réside dans la conception d'architectures cloud-native, l'automatisation via Infrastructure as Code, et la mise en place de solutions de monitoring et d'observabilité. Je privilégie les outils open source et self-hosted pour conserver la maîtrise totale de mes environnements.
-
-Mon profil GitHub constitue un portfolio technique personnel illustrant mes projets, expérimentations et contributions autour de Linux, du self-hosting, du monitoring, de l'automatisation et des bonnes pratiques DevOps.
+Mon approche : privilégier des systèmes simples à exploiter, observables, sécurisés et documentés. J'aime comprendre le fonctionnement d'une plateforme, l'automatiser progressivement, puis partager une solution reproductible.
 
 ---
 
 ## 🛠️ Stack technique
 
-### Systèmes & OS
-| | | | |
-|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub><br><sub>Infrastructure de base</sub> | <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="48" height="48" alt="Ubuntu" /><br><sub><b>Ubuntu</b></sub><br><sub>Distribution primaire</sub> | <img src="https://cdn.simpleicons.org/debian/A81D33" width="48" height="48" alt="Debian" /><br><sub><b>Debian</b></sub><br><sub>Systèmes légers</sub> | <img src="https://cdn.simpleicons.org/rockylinux/10B981" width="48" height="48" alt="Rocky Linux" /><br><sub><b>Rocky Linux</b></sub><br><sub>Stabilité entreprise</sub> |
+### 🖥️ Systèmes & OS
 
-### Automatisation & DevOps
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Shell" /><br><sub><b>Shell</b></sub><br><sub>Scripting & automatisation</sub> | <img src="https://cdn.simpleicons.org/ansible/EE0000" width="48" height="48" alt="Ansible" /><br><sub><b>Ansible</b></sub><br><sub>Infrastructure as Code</sub> | <img src="https://cdn.simpleicons.org/jinja/B41717" width="48" height="48" alt="Jinja" /><br><sub><b>Jinja</b></sub><br><sub>Moteur de template</sub> | <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub><br><sub>Contrôle de version</sub> | <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub><br><sub>Repository & CI/CD</sub> | <img src="https://cdn.simpleicons.org/gitlabci/FC6D26" width="48" height="48" alt="GitLab CI" /><br><sub><b>GitLab CI</b></sub><br><sub>Automatisation pipeline</sub> |
+| Icône | Outil | Usage |
+|:---:|---|---|
+| 🐧 | **Linux** | Administration système, services et environnements de production |
+| 🔴 | **Debian** | Système stable pour serveurs et services self-hosted |
+| 🟠 | **Ubuntu** | Développement, serveurs et expérimentation |
+| 🟣 | **CentOS** | Administration d'environnements Linux orientés entreprise |
+| 🍓 | **Raspberry Pi OS** | Systèmes légers pour nœuds et services homelab |
+| 🪟 | **Windows 10** | Poste principal et compatibilité applicative |
 
-### Containerisation & Orchestration
-| | | | | |
-|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub><br><sub>Containerisation</sub> | <img src="https://cdn.simpleicons.org/dockercompose/2496ED" width="48" height="48" alt="Docker Compose" /><br><sub><b>Docker Compose</b></sub><br><sub>Orchestration multi-conteneurs</sub> | <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" height="48" alt="Kubernetes" /><br><sub><b>Kubernetes</b></sub><br><sub>Orchestration de conteneurs</sub> | <img src="https://cdn.simpleicons.org/podman/892CA0" width="48" height="48" alt="Podman" /><br><sub><b>Podman</b></sub><br><sub>Runtime de conteneurs</sub> | <img src="https://cdn.simpleicons.org/portainer/13BEF9" width="48" height="48" alt="Portainer" /><br><sub><b>Portainer</b></sub><br><sub>UI de gestion conteneurs</sub> |
+### ⚙️ DevOps & automatisation
 
-### Monitoring & Observabilité
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48" height="48" alt="Prometheus" /><br><sub><b>Prometheus</b></sub><br><sub>Collecte de métriques</sub> | <img src="https://cdn.simpleicons.org/grafana/F46837" width="48" height="48" alt="Grafana" /><br><sub><b>Grafana</b></sub><br><sub>Visualisation & dashboards</sub> | <img src="https://cdn.simpleicons.org/victoriametrics/4285F4" width="48" height="48" alt="VictoriaMetrics" /><br><sub><b>VictoriaMetrics</b></sub><br><sub>Base de données time series</sub> | <img src="https://cdn.simpleicons.org/netdata/1D8367" width="48" height="48" alt="Netdata" /><br><sub><b>Netdata</b></sub><br><sub>Monitoring en temps réel</sub> | <img src="https://cdn.simpleicons.org/logstash/005571" width="48" height="48" alt="Logstash" /><br><sub><b>Logstash</b></sub><br><sub>Traitement de logs</sub> | <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Elasticsearch" /><br><sub><b>Elasticsearch</b></sub><br><sub>Recherche & analytique</sub> |
+| Icône | Outil | Usage |
+|:---:|---|---|
+| ⌨️ | **Shell / Bash** | Scripting d'administration, tâches récurrentes et outillage CLI |
+| 🔴 | **Ansible** | Infrastructure as Code & automation sans agent |
+| 🧩 | **Jinja** | Templates de configuration paramétrables pour Ansible |
+| 🐳 | **Docker** | Conteneurisation et déploiement reproductible de services |
+| 🔁 | **n8n** | Automatisation visuelle de workflows et intégrations |
+| 🧭 | **Portainer** | Gestion simplifiée des environnements Docker |
 
-### Homelab & Self-hosting
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="48" height="48" alt="Home Assistant" /><br><sub><b>Home Assistant</b></sub><br><sub>Domotique</sub> | <img src="https://cdn.simpleicons.org/pihole/96060C" width="48" height="48" alt="Pi-hole" /><br><sub><b>Pi-hole</b></sub><br><sub>Filtrage DNS & ad-blocking</sub> | <img src="https://cdn.simpleicons.org/jellyfin/00A4EF" width="48" height="48" alt="Jellyfin" /><br><sub><b>Jellyfin</b></sub><br><sub>Serveur multimédia</sub> | <img src="https://cdn.simpleicons.org/plex/E5A00D" width="48" height="48" alt="Plex" /><br><sub><b>Plex</b></sub><br><sub>Streaming de médias</sub> | <img src="https://cdn.simpleicons.org/tailscale/00A4EF" width="48" height="48" alt="Tailscale" /><br><sub><b>Tailscale</b></sub><br><sub>VPN & mesh networking</sub> | <img src="https://cdn.simpleicons.org/minio/E31C23" width="48" height="48" alt="MinIO" /><br><sub><b>MinIO</b></sub><br><sub>Stockage objet</sub> |
+### 📈 Monitoring & observabilité
 
-### Langages & Frameworks
-| | | | | |
-|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub><br><sub>Scripting & automatisation</sub> | <img src="https://cdn.simpleicons.org/yaml/CB171E" width="48" height="48" alt="YAML" /><br><sub><b>YAML</b></sub><br><sub>Gestion de configuration</sub> | <img src="https://cdn.simpleicons.org/json/000000" width="48" height="48" alt="JSON" /><br><sub><b>JSON</b></sub><br><sub>Format de données</sub> | <img src="https://cdn.simpleicons.org/markdown/000000" width="48" height="48" alt="Markdown" /><br><sub><b>Markdown</b></sub><br><sub>Documentation</sub> | <img src="https://cdn.simpleicons.org/html5/E34C26" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub><br><sub>Balisage web</sub> |
+| Icône | Outil | Usage |
+|:---:|---|---|
+| 🟠 | **Grafana** | Dashboards, visualisation et corrélation des métriques |
+| 🔥 | **Prometheus** | Collecte, requêtage et alerting de métriques time series |
+| 🟣 | **VictoriaMetrics** | Stockage et supervision de métriques à haute efficacité |
+| 🟢 | **Netdata** | Monitoring temps réel et diagnostic des hôtes |
+| 🧭 | **Homepage** | Portail opérationnel centralisé pour les services homelab |
+| 🟡 | **Uptime Kuma** | Surveillance de disponibilité et notifications d'incident |
 
-### Virtualisation, Stockage & Cloud
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" height="48" alt="Proxmox" /><br><sub><b>Proxmox</b></sub><br><sub>Hyperviseur & gestion VM</sub> | <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="VMware" /><br><sub><b>VMware</b></sub><br><sub>Virtualisation entreprise</sub> | <img src="https://cdn.simpleicons.org/truenas/25ACE2" width="48" height="48" alt="TrueNAS" /><br><sub><b>TrueNAS</b></sub><br><sub>Stockage & NAS</sub> | <img src="https://cdn.simpleicons.org/s3/569A31" width="48" height="48" alt="AWS S3" /><br><sub><b>AWS S3</b></sub><br><sub>Stockage objet cloud</sub> | <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle Cloud" /><br><sub><b>Oracle Cloud</b></sub><br><sub>Infrastructure cloud</sub> | <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google Cloud" /><br><sub><b>Google Cloud</b></sub><br><sub>Services cloud</sub> |
+#<a id="homelab"></a>
 
-### IA & Workflows
-| | | |
-|---|---|---|
-| <img src="https://img.icons8.com/color/48/chatgpt.png" width="48" height="48" alt="GPT" /><br><sub><b>OpenAI GPT</b></sub><br><sub>LLM & IA</sub> | <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/claude-ai.png" width="48" height="48" alt="Claude" /><br><sub><b>Claude</b></sub><br><sub>LLM & assistance code</sub> | <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /><br><sub><b>n8n</b></sub><br><sub>Automatisation workflow & IA</sub> |
+## 🏠 Homelab & self-hosting
+
+| Icône | Outil | Usage |
+|:---:|---|---|
+| 🏡 | **Home Assistant** | Domotique, intégrations et automatisations de la maison |
+| 🛡️ | **Pi-hole** | DNS local, filtrage publicitaire et première couche de sécurité |
+| 🎬 | **Jellyfin** | Serveur média libre auto-hébergé |
+| 🟡 | **Plex** | Bibliothèque média et diffusion multi-appareils |
+| 🔐 | **Tailscale** | Réseau privé maillé et accès distant sécurisé |
+| 🌐 | **Caddy** | Reverse proxy, HTTPS automatique et publication de services |
+
+### 💻 Langages & développement
+
+| Icône | Outil | Usage |
+|:---:|---|---|
+| 🐍 | **Python** | Automatisation, outillage et scripts d'exploitation |
+| 🟨 | **JavaScript** | Scripts et intégrations côté application |
+| 🟩 | **Node.js** | Services et outils backend événementiels |
+| 🌐 | **HTML** | Structure sémantique des interfaces web |
+| 🎨 | **CSS** | Mise en forme et responsive design |
+| 🦋 | **Dart** | Développement applicatif et expérimentation |
+| 🐦 | **Swift** | Développement applicatif Apple et génération d'artefacts |
+
+### 🧱 Virtualisation, stockage & cloud
+
+| Icône | Outil | Usage |
+|:---:|---|---|
+| 🟧 | **Proxmox** | Virtualisation, conteneurs et gestion de nœuds homelab |
+| 🟦 | **VMware ESXi** | Hyperviseur et expérimentation de plateformes virtualisées |
+| 🪣 | **MinIO** | Stockage objet compatible S3 en self-hosting |
+| ☁️ | **AWS** | Services cloud et compréhension des architectures distribuées |
+| 🔵 | **Dell PowerFlex** | Stockage défini par logiciel et infrastructure enterprise |
+| 🗄️ | **TrueNAS** | NAS, stockage, partage de fichiers et services data |
+
+### 🤖 IA & workflows
+
+| Icône | Outil | Usage |
+|:---:|---|---|
+| 🧠 | **GPT** | Assistance, génération et accélération des workflows techniques |
+| ✨ | **Claude** | Analyse, rédaction et aide au raisonnement documentaire |
+| 🦣 | **Mammouth AI** | Orchestration d'outils IA pour la productivité et l'expérimentation |
+| 🔗 | **n8n + IA** | Workflows automatisés combinant services, données et modèles |
 
 ---
 
-## 🎯 Ce qui m'intéresse
+## 🎯 Centres d'intérêt
 
-- **Systèmes Linux** — administration avancée, optimisation et sécurisation
-- **Infrastructure as Code** — Ansible, Terraform, playbooks et bonnes pratiques
-- **Monitoring & Observabilité** — Prometheus, Grafana, VictoriaMetrics, ELK stack
-- **Containerisation** — Docker, Kubernetes, Podman et orchestration
-- **Stockage & NAS** — TrueNAS, RAID, MinIO et architecture de données
-- **Virtualisation** — Proxmox, VMware, ESXi et hyperviseurs
-- **Home Automation** — Home Assistant, Pi-hole, Jellyfin, Tailscale
-- **IA appliquée** — workflows n8n, LLMs et automatisation intelligente
-- **DevOps** — CI/CD, bonnes pratiques, culture et outillage
+- Administration système Linux et bonnes pratiques d'exploitation
+- Infrastructure as Code avec Shell, Ansible et Jinja
+- Monitoring, alerting et observabilité pragmatique
+- Docker, self-hosting et services open source
+- Stockage, NAS, TrueNAS, MinIO et Dell PowerFlex
+- Homelab, Raspberry Pi, Proxmox et VMware ESXi
+- Home Assistant, Pi-hole, Jellyfin, Plex et Tailscale
+- IA appliquée aux workflows avec GPT, Claude et n8n
 
 ---
 
@@ -105,40 +142,35 @@ Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter de
 
 ---
 
-## 🧭 Ce sur quoi je travaille
+## 🏠 Homelab
 
-- 🏠 **Amélioration de mon environnement Home Assistant** — dashboards, automatisations et intégrations
-- 📊 **Stacks de monitoring** — mise en place et optimisation de Prometheus, Grafana et VictoriaMetrics
-- 🐳 **Déploiement de services self-hosted** — Docker Compose et orchestration
-- 🔐 **Sécurisation et accès distant** — infrastructure privée et Tailscale
-- ⚙️ **Automatisation avancée** — Shell, Ansible, Jinja et n8n
-- 🗂️ **Documentation de projets** — rendre mes solutions réutilisables et partageables
+Mon homelab est un environnement d'apprentissage et de validation : je peux y déployer, mesurer, casser, reconstruire et documenter des solutions Linux, Docker, monitoring, domotique et self-hosting.
 
----
+| Domaine | Résumé |
+|---|---|
+| 🧪 Compute | PC principal, CubieBoard, Raspberry Pi 5 et Mac mini |
+| 🐳 Conteneurs | Docker sur Raspberry Pi 5 pour les services self-hosted |
+| 📊 Observabilité | Raspberry Pi 3 dédié au monitoring |
+| 🌐 Réseau | Équipements TP-Link, D-Link PoE et switch Ubiquiti |
+| 🏡 Services | Home Assistant, Pi-hole, Jellyfin, Plex et Tailscale |
+| 🧱 Sécurité | Caméras et enregistreur HIKVision, DNS filtrant et accès privé |
 
-## 📚 Ce que j'expérimente
-
-- Workflows IA avancés avec GPT, Claude et n8n
-- Automatisation infrastructure avec Ansible et bonnes pratiques
-- Supervision multi-couches avec Prometheus, VictoriaMetrics, Grafana et Netdata
-- Stockage objet distribué avec MinIO
-- Virtualisation hyperconvergée avec Proxmox et VMware
-- Patterns DevOps appliqués au homelab (GitOps, IaC, CI/CD)
+> Les détails matériels et l'inventaire évolutif sont documentés dans **[HARDWARE.md](./HARDWARE.md)**
 
 ---
 
-## 🚀 Projets mis en avant
+## 🚀 Projets
 
-> Plusieurs projets sont en cours de nettoyage avant publication afin de supprimer les credentials, tokens, clés API, fichiers `.env` et informations d'infrastructure privée.
+> Les dépôts sont publiés progressivement après nettoyage des credentials, tokens, clés API, fichiers `.env` et informations d'infrastructure privée.
 
 | Projet | Description | Statut |
-|--------|-------------|--------|
-| 🏠 **Home Assistant Lab** | Dashboard domotique, automatisations, intégrations et supervision | En cours |
-| 📊 **Monitoring Stack** | Grafana, Prometheus, VictoriaMetrics et Netdata | En cours |
+|---|---|:---:|
+| 🏠 **Home Assistant Lab** | Dashboard domotique, intégrations, automatisations et supervision | En cours |
+| 📊 **Monitoring Stack** | Grafana, Prometheus, VictoriaMetrics et Netdata pour la supervision système | En cours |
 | 🐳 **Docker Homelab** | Services self-hosted déployés avec Docker Compose | En cours |
-| 🔐 **WebDAV / TrueNAS** | Accès fichiers sécurisé et gestion de stockage | En cours |
-| ⚙️ **Ansible Lab** | Playbooks, rôles et automatisation Linux | À publier |
-| 🤖 **n8n Automation** | Workflows IA et automatisation de tâches | En cours |
+| 🔐 **WebDAV / TrueNAS** | Accès fichiers sécurisé et documentation de stockage | En cours |
+| ⚙️ **Ansible Lab** | Playbooks et rôles pour automatiser des hôtes Linux | À publier |
+| 🤖 **n8n Automation** | Workflows d'automatisation et cas d'usage IA | En cours |
 
 ---
 
@@ -159,7 +191,7 @@ Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter de
 
 </div>
 
-> Une partie de mon activité se trouve dans des dépôts privés, des projets personnels non publiés ou des environnements professionnels. Les statistiques publiques GitHub ne représentent donc qu'une partie de mon activité technique réelle.
+> Les dépôts privés, projets non publiés et environnements professionnels ne sont pas représentés dans les statistiques publiques.
 
 ---
 
@@ -194,22 +226,6 @@ Mon homelab me permet d'apprendre, tester, casser, reconstruire et documenter de
 | `bash-admin-scripts` | Scripts Shell utiles pour l'administration système |
 | `truenas-webdav-lab` | Documentation autour de TrueNAS et WebDAV |
 | `n8n-ai-workflows` | Workflows n8n pour automatisation et IA |
-
----
-
-## 🧹 Avant de publier un dépôt
-
-Avant de rendre un dépôt public, je vérifie toujours :
-
-- ✅ Aucun mot de passe
-- ✅ Aucun token ou clé API
-- ✅ Aucun fichier `.env` sensible
-- ✅ Aucun nom de domaine privé non souhaité
-- ✅ Aucune IP publique ou interne sensible
-- ✅ Aucun identifiant personnel inutile
-- ✅ Présence d'un `.gitignore` approprié
-- ✅ Présence d'un `README.md` complet
-- ✅ Présence d'un fichier `.env.example` si nécessaire
 
 ---
 
