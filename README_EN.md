@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Jérémy
+# 👋 I'm Jérémy
 
 ## Linux System Engineer • Homelab • Automation • Monitoring
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📑 Table of Contents
+## 📋 Table of Contents
 
 - [About Me](#-about-me)
 - [Tech Stack](#-tech-stack)
@@ -21,131 +21,154 @@
 - [What I'm Working On](#-what-im-working-on)
 - [What I'm Experimenting With](#-what-im-experimenting-with)
 - [Featured Projects](#-featured-projects)
-- [Home Assistant Overview](#-home-assistant-overview)
+- [Hardware Inventory](#-hardware-inventory)
 - [GitHub Stats](#-github-stats)
-- [Repository Ideas](#-repository-ideas)
-- [Before Publishing a Repository](#-before-publishing-a-repository)
 - [Contact](#-contact)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm Jérémy, a Linux engineer and passionate about infrastructure, automation, monitoring, and homelab environments. My expertise focuses on building and operating robust and well-documented systems.
+I'm Jérémy, a Linux System Engineer passionate about infrastructure, server hardware, automation, monitoring, and homelab environments.
 
-My specialization lies in designing cloud-native architectures, Infrastructure as Code automation, and implementing monitoring and observability solutions. I favor open-source and self-hosted tools to maintain full control over my environments.
-
-My GitHub profile serves as a personal technical portfolio, showcasing my projects, experiments, and contributions in Linux, self-hosting, monitoring, automation, and DevOps best practices.
+I love understanding how systems work, building clean infrastructures, documenting my projects, and experimenting with DevOps tools, self-hosted solutions, and open-source software. My GitHub profile serves as a personal portfolio to showcase my projects, experiments, and technical world around Linux, self-hosting, monitoring, and automation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Operating Systems & Distributions
-| | | | |
-|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub><br><sub>Core infrastructure</sub> | <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="48" height="48" alt="Ubuntu" /><br><sub><b>Ubuntu</b></sub><br><sub>Primary distribution</sub> | <img src="https://cdn.simpleicons.org/debian/A81D33" width="48" height="48" alt="Debian" /><br><sub><b>Debian</b></sub><br><sub>Lightweight systems</sub> | <img src="https://cdn.simpleicons.org/rockylinux/10B981" width="48" height="48" alt="Rocky Linux" /><br><sub><b>Rocky Linux</b></sub><br><sub>Enterprise stability</sub> |
+### Operating Systems & OS
 
-### Automation & DevOps
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Shell" /><br><sub><b>Shell</b></sub><br><sub>Scripting & automation</sub> | <img src="https://cdn.simpleicons.org/ansible/EE0000" width="48" height="48" alt="Ansible" /><br><sub><b>Ansible</b></sub><br><sub>Infrastructure as Code</sub> | <img src="https://cdn.simpleicons.org/jinja/B41717" width="48" height="48" alt="Jinja" /><br><sub><b>Jinja</b></sub><br><sub>Template engine</sub> | <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub><br><sub>Version control</sub> | <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub><br><sub>Repository & CI/CD</sub> | <img src="https://cdn.simpleicons.org/gitlabci/FC6D26" width="48" height="48" alt="GitLab CI" /><br><sub><b>GitLab CI</b></sub><br><sub>Pipeline automation</sub> |
+| | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/linux/FFFFFF" width="48" height="48" alt="Linux" /><br>**Linux** | <img src="https://cdn.simpleicons.org/debian/A81D33" width="48" height="48" alt="Debian" /><br>**Debian** | <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="48" height="48" alt="Ubuntu" /><br>**Ubuntu** | <img src="https://cdn.simpleicons.org/centos/262577" width="48" height="48" alt="CentOS" /><br>**CentOS** | <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="48" height="48" alt="Raspberry Pi OS" /><br>**RaspiOS** | <img src="https://cdn.simpleicons.org/windows/0078D4" width="48" height="48" alt="Windows 10" /><br>**Windows 10** | <img src="https://cdn.simpleicons.org/macos/000000" width="48" height="48" alt="macOS" /><br>**macOS** |
 
 ### Containerization & Orchestration
-| | | | | |
-|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub><br><sub>Containerization</sub> | <img src="https://cdn.simpleicons.org/dockercompose/2496ED" width="48" height="48" alt="Docker Compose" /><br><sub><b>Docker Compose</b></sub><br><sub>Multi-container orchestration</sub> | <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" height="48" alt="Kubernetes" /><br><sub><b>Kubernetes</b></sub><br><sub>Container orchestration</sub> | <img src="https://cdn.simpleicons.org/podman/892CA0" width="48" height="48" alt="Podman" /><br><sub><b>Podman</b></sub><br><sub>Container runtime</sub> | <img src="https://cdn.simpleicons.org/portainer/13BEF9" width="48" height="48" alt="Portainer" /><br><sub><b>Portainer</b></sub><br><sub>Container management UI</sub> |
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" /><br>**Docker** — Application containerization | <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" height="48" alt="Kubernetes" /><br>**Kubernetes** — Orchestration | <img src="https://cdn.simpleicons.org/portainer/13BEF9" width="48" height="48" alt="Portainer" /><br>**Portainer** — Visual Docker Management | <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/n8n.png" width="48" height="48" alt="n8n" /><br>**n8n** — Workflows & Automation |
+
+### Automation & DevOps
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/ansible/EE0000" width="48" height="48" alt="Ansible" /><br>**Ansible** — IaC & Automation | <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="48" height="48" alt="Terraform" /><br>**Terraform** — Infrastructure as Code | <img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" width="48" height="48" alt="Bash" /><br>**Bash** — Shell Scripting | <img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" height="48" alt="PowerShell" /><br>**PowerShell** — Windows Automation |
 
 ### Monitoring & Observability
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48" height="48" alt="Prometheus" /><br><sub><b>Prometheus</b></sub><br><sub>Metrics collection</sub> | <img src="https://cdn.simpleicons.org/grafana/F46837" width="48" height="48" alt="Grafana" /><br><sub><b>Grafana</b></sub><br><sub>Visualization & dashboards</sub> | <img src="https://cdn.simpleicons.org/victoriametrics/4285F4" width="48" height="48" alt="VictoriaMetrics" /><br><sub><b>VictoriaMetrics</b></sub><br><sub>Time series database</sub> | <img src="https://cdn.simpleicons.org/netdata/1D8367" width="48" height="48" alt="Netdata" /><br><sub><b>Netdata</b></sub><br><sub>Real-time monitoring</sub> | <img src="https://cdn.simpleicons.org/logstash/005571" width="48" height="48" alt="Logstash" /><br><sub><b>Logstash</b></sub><br><sub>Log processing</sub> | <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Elasticsearch" /><br><sub><b>Elasticsearch</b></sub><br><sub>Search & analytics</sub> |
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48" height="48" alt="Prometheus" /><br>**Prometheus** — Metrics Collection | <img src="https://cdn.simpleicons.org/grafana/F26522" width="48" height="48" alt="Grafana" /><br>**Grafana** — Dashboards & Visualization | <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/victoriametrics.png" width="48" height="48" alt="VictoriaMetrics" /><br>**VictoriaMetrics** — Time Series DB | <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/netdata.png" width="48" height="48" alt="Netdata" /><br>**Netdata** — Real-time Monitoring |
 
 ### Homelab & Self-hosting
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="48" height="48" alt="Home Assistant" /><br><sub><b>Home Assistant</b></sub><br><sub>Home automation</sub> | <img src="https://cdn.simpleicons.org/pihole/96060C" width="48" height="48" alt="Pi-hole" /><br><sub><b>Pi-hole</b></sub><br><sub>DNS filtering & ad-blocking</sub> | <img src="https://cdn.simpleicons.org/jellyfin/00A4EF" width="48" height="48" alt="Jellyfin" /><br><sub><b>Jellyfin</b></sub><br><sub>Media server</sub> | <img src="https://cdn.simpleicons.org/plex/E5A00D" width="48" height="48" alt="Plex" /><br><sub><b>Plex</b></sub><br><sub>Media streaming</sub> | <img src="https://cdn.simpleicons.org/tailscale/00A4EF" width="48" height="48" alt="Tailscale" /><br><sub><b>Tailscale</b></sub><br><sub>VPN & mesh networking</sub> | <img src="https://cdn.simpleicons.org/minio/E31C23" width="48" height="48" alt="MinIO" /><br><sub><b>MinIO</b></sub><br><sub>Object storage</sub> |
 
-### Languages & Frameworks
-| | | | | |
-|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub><br><sub>Scripting & automation</sub> | <img src="https://cdn.simpleicons.org/yaml/CB171E" width="48" height="48" alt="YAML" /><br><sub><b>YAML</b></sub><br><sub>Configuration management</sub> | <img src="https://cdn.simpleicons.org/json/000000" width="48" height="48" alt="JSON" /><br><sub><b>JSON</b></sub><br><sub>Data format</sub> | <img src="https://cdn.simpleicons.org/markdown/000000" width="48" height="48" alt="Markdown" /><br><sub><b>Markdown</b></sub><br><sub>Documentation</sub> | <img src="https://cdn.simpleicons.org/html5/E34C26" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub><br><sub>Web markup</sub> |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="48" height="48" alt="Home Assistant" /><br>**Home Assistant** — Home Automation & Workflows | <img src="https://cdn.simpleicons.org/pihole/96060C" width="48" height="48" alt="Pi-hole" /><br>**Pi-hole** — DNS & Ad Blocking | <img src="https://cdn.simpleicons.org/jellyfin/00A4DC" width="48" height="48" alt="Jellyfin" /><br>**Jellyfin** — Media Server | <img src="https://cdn.simpleicons.org/tailscale/00A4EF" width="48" height="48" alt="Tailscale" /><br>**Tailscale** — VPN & Networking |
 
 ### Virtualization, Storage & Cloud
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" height="48" alt="Proxmox" /><br><sub><b>Proxmox</b></sub><br><sub>Hypervisor & VM management</sub> | <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="VMware" /><br><sub><b>VMware</b></sub><br><sub>Enterprise virtualization</sub> | <img src="https://cdn.simpleicons.org/truenas/25ACE2" width="48" height="48" alt="TrueNAS" /><br><sub><b>TrueNAS</b></sub><br><sub>Storage & NAS</sub> | <img src="https://cdn.simpleicons.org/s3/569A31" width="48" height="48" alt="AWS S3" /><br><sub><b>AWS S3</b></sub><br><sub>Cloud object storage</sub> | <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle Cloud" /><br><sub><b>Oracle Cloud</b></sub><br><sub>Cloud infrastructure</sub> | <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google Cloud" /><br><sub><b>Google Cloud</b></sub><br><sub>Cloud services</sub> |
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" height="48" alt="Proxmox" /><br>**Proxmox** — Hypervisor | <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="VMware" /><br>**VMware ESXi** — Enterprise Hypervisor | <img src="https://cdn.simpleicons.org/minio/C72E49" width="48" height="48" alt="MinIO" /><br>**MinIO** — Object Storage | <img src="https://cdn.simpleicons.org/synology/002D6D" width="48" height="48" alt="Synology" /><br>**Synology DSM** — NAS Management |
 
 ### AI & Workflows
+
 | | | |
-|---|---|---|
-| <img src="https://img.icons8.com/color/48/chatgpt.png" width="48" height="48" alt="GPT" /><br><sub><b>OpenAI GPT</b></sub><br><sub>LLM & AI</sub> | <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/claude-ai.png" width="48" height="48" alt="Claude" /><br><sub><b>Claude</b></sub><br><sub>LLM & code assistance</sub> | <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /><br><sub><b>n8n</b></sub><br><sub>Workflow automation & AI</sub> |
+|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" /><br>**OpenAI (GPT)** — LLM & AI | <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/claude.png" width="48" height="48" alt="Claude" /><br>**Claude (Anthropic)** — AI Assistant | <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/ollama.png" width="48" height="48" alt="Ollama" /><br>**Ollama** — Local LLM |
 
 ---
 
 ## 🎯 What Interests Me
 
-- **Linux Systems** — advanced administration, optimization and hardening
-- **Infrastructure as Code** — Ansible, Terraform, playbooks and best practices
-- **Monitoring & Observability** — Prometheus, Grafana, VictoriaMetrics, ELK stack
-- **Containerization** — Docker, Kubernetes, Podman and orchestration
-- **Storage & NAS** — TrueNAS, RAID, MinIO and data architecture
-- **Virtualization** — Proxmox, VMware, ESXi and hypervisors
-- **Home Automation** — Home Assistant, Pi-hole, Jellyfin, Tailscale
-- **Applied AI** — n8n workflows, LLMs and intelligent automation
-- **DevOps** — CI/CD, best practices, culture and tooling
+- **Linux System Administration** — Robust and scalable infrastructure management
+- **Automation** — Shell, Ansible, Terraform, Jinja to reduce manual tasks
+- **Monitoring & Observability** — Grafana, Prometheus, VictoriaMetrics, Netdata
+- **Containerization & Orchestration** — Docker, Kubernetes, Portainer
+- **Self-hosting & Homelab** — Personal services, digital independence
+- **Storage & NAS** — TrueNAS, Synology, MinIO, Dell PowerFlex
+- **Virtualization** — Proxmox, VMware ESXi, Hyper-V
+- **Home Automation & AI** — Home Assistant, n8n, GPT, Claude
+- **Infrastructure as Code** — Terraform, Ansible, Containerization
 
 ---
 
 ## 🏠 My Homelab
 
-My homelab enables me to learn, test, experiment, rebuild and document solutions around Linux, Docker, monitoring, home automation and self-hosting. It's my laboratory for exploring all DevOps technologies.
+My homelab allows me to learn, test, rebuild, and document solutions around Linux, Docker, monitoring, home automation, and self-hosting.
 
-**For a detailed inventory of all my equipment (hardware, specifications, status)**, refer to the [**HARDWARE.md**](./HARDWARE.md) file.
+**📊 Detailed Configuration** → See [HARDWARE_EN.md](./HARDWARE_EN.md) for complete inventory (devices, specs, networking, etc.)
+
+### Quick Summary
+
+| Category | Configuration |
+|----------|---------------|
+| **💻 Main PC** | i7-1800X • 16 GB DDR4 • NVIDIA GTX 1660 • Windows 10 |
+| **🍓 Raspberry Pi 5** | 8 GB RAM • 256 GB + 480 GB NVMe • Docker Host |
+| **🗄️ Synology NAS** | RAID 5 (4x1TB) • Mini-ITX • Centralized Storage |
+| **🔧 Network** | Ubiquiti US 8 60W • USG • Tailscale VPN |
+| **🏡 Home Automation** | Home Assistant • Automations • Integrations |
+| **🎬 Media** | Jellyfin • Plex • 16-channel DVR |
+| **🌐 DNS/Security** | Pi-hole • Filtering DNS |
+| **☁️ Cloud** | IONOS VM • Oracle Cloud VM |
 
 ---
 
 ## 🧭 What I'm Working On
 
-- 🏠 **Improving my Home Assistant environment** — dashboards, automations and integrations
-- 📊 **Monitoring stacks** — deployment and optimization of Prometheus, Grafana and VictoriaMetrics
-- 🐳 **Self-hosted services deployment** — Docker Compose and orchestration
-- 🔐 **Securing remote access** — private infrastructure and Tailscale
-- ⚙️ **Advanced automation** — Shell, Ansible, Jinja and n8n
-- 🗂️ **Project documentation** — making solutions reusable and shareable
+- 🏠 Improving my Home Assistant environment
+- 📊 Setting up and optimizing monitoring stacks
+- 🐳 Deploying self-hosted services with Docker Compose
+- 🔐 Securing and providing remote access to my homelab
+- ⚙️ Automation with Ansible, n8n, and Shell
+- 📖 Documenting my projects to make them reusable
 
 ---
 
 ## 📚 What I'm Experimenting With
 
-- Advanced AI workflows with GPT, Claude and n8n
-- Infrastructure automation with Ansible and best practices
-- Multi-layer supervision with Prometheus, VictoriaMetrics, Grafana and Netdata
-- Distributed object storage with MinIO
-- Hyperconverged virtualization with Proxmox and VMware
-- DevOps patterns applied to homelab (GitOps, IaC, CI/CD)
+- **AI Workflows** — Integrating GPT, Claude, and n8n into my infrastructure
+- **Advanced Automation** — Ansible, Jinja, Terraform
+- **Multi-stack Supervision** — Prometheus, VictoriaMetrics, Grafana, Netdata
+- **Object Storage** — MinIO, S3-compatible workflows
+- **Lightweight Virtualization** — Proxmox, VMware, containers
+- **DevOps Applied to Homelab** — IaC, CI/CD, monitoring
 
 ---
 
 ## 🚀 Featured Projects
 
-> Several projects are being cleaned up before publication to remove credentials, tokens, API keys, `.env` files and private infrastructure information.
+> Several projects are being cleaned up before publication to remove credentials, tokens, API keys, `.env` files, and private infrastructure information.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🏠 **Home Assistant Lab** | Home automation dashboard, automations, integrations and supervision | In Progress |
-| 📊 **Monitoring Stack** | Grafana, Prometheus, VictoriaMetrics and Netdata | In Progress |
-| 🐳 **Docker Homelab** | Self-hosted services deployed with Docker Compose | In Progress |
-| 🔐 **WebDAV / TrueNAS** | Secure file access and storage management | In Progress |
-| ⚙️ **Ansible Lab** | Playbooks, roles and Linux automation | To Publish |
+| 🏠 **Home Assistant Lab** | Home automation dashboard, automations, integrations | In Progress |
+| 📊 **Monitoring Stack** | Grafana, Prometheus, VictoriaMetrics, Netdata | In Progress |
+| 🐳 **Docker Homelab** | Self-hosted services with Docker Compose | In Progress |
+| 🔐 **WebDAV / TrueNAS** | Secure file access | In Progress |
+| ⚙️ **Ansible Lab** | Playbooks and roles for automation | To Publish |
 | 🤖 **n8n Automation** | AI workflows and task automation | In Progress |
 
 ---
 
-## 🖼️ Home Assistant Overview
+## 🖼️ Home Assistant Preview
 
-![Home Assistant Overview](./home-assistant1.jpeg)
-![Home Assistant Overview](./home-assistant2.jpeg)
+![Home Assistant Preview](./home-assistant1.jpeg)
+![Home Assistant Preview](./home-assistant2.jpeg)
+
+---
+
+## 📊 Hardware Inventory
+
+📖 **See** [HARDWARE_EN.md](./HARDWARE_EN.md) for :
+- 🖥️ Complete compute infrastructure
+- 💾 Storage & NAS details
+- 🌐 Detailed network configuration
+- 📱 Mobile devices & consoles
+- ☁️ Remote VMs
+- 🔧 Technical specifications
 
 ---
 
@@ -159,7 +182,7 @@ My homelab enables me to learn, test, experiment, rebuild and document solutions
 
 </div>
 
-> A significant portion of my activity resides in private repositories, unpublished personal projects or professional environments. Public GitHub statistics therefore represent only part of my actual technical activity.
+> Much of my activity is in private repositories, unpublished personal projects, or professional environments. Public GitHub statistics represent only a portion of my actual technical activity.
 
 ---
 
@@ -183,33 +206,34 @@ My homelab enables me to learn, test, experiment, rebuild and document solutions
 
 ---
 
-## 📌 Repository Ideas
+## 📌 Repository Ideas to Publish
 
 | Repository | Description |
-|------------|-------------|
+|-----------|-------------|
 | `ansible-linux-lab` | Ansible playbooks to automate Linux tasks |
 | `docker-compose-homelab` | Docker Compose stacks for self-hosted services |
-| `monitoring-lab` | Dashboards, exporters and Grafana / Prometheus configurations |
-| `home-assistant-lab` | Examples of dashboards, automations and integrations |
-| `bash-admin-scripts` | Useful shell scripts for system administration |
-| `truenas-webdav-lab` | Documentation around TrueNAS and WebDAV |
+| `monitoring-lab` | Dashboards, exporters, and Grafana / Prometheus configurations |
+| `home-assistant-lab` | Dashboard examples, automations, integrations |
+| `bash-admin-scripts` | Useful Shell scripts for system administration |
+| `truenas-webdav-lab` | TrueNAS and WebDAV documentation |
 | `n8n-ai-workflows` | n8n workflows for automation and AI |
 
 ---
 
 ## 🧹 Before Publishing a Repository
 
-Before making a repository public, I always check for:
+Before making a repository public, I always check :
 
-- ✅ No passwords
-- ✅ No tokens or API keys
-- ✅ No sensitive `.env` files
-- ✅ No unwanted private domain names
-- ✅ No sensitive public or private IPs
-- ✅ No unnecessary personal identifiers
-- ✅ Presence of appropriate `.gitignore`
-- ✅ Presence of complete `README.md`
-- ✅ Presence of `.env.example` file if needed
+- ❌ No passwords
+- ❌ No access tokens
+- ❌ No API keys
+- ❌ No sensitive `.env` files
+- ❌ No private domain names
+- ❌ No sensitive IP addresses
+- ❌ No personal identifiers
+- ✅ Presence of a robust `.gitignore`
+- ✅ Presence of a complete `README.md`
+- ✅ Presence of a `.env.example` if necessary
 
 ---
 
@@ -219,7 +243,7 @@ Before making a repository public, I always check for:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krohler06-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krohler06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jérémy%20Lemaire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jérémy-lemaire-435660175/)
-[![Website](https://img.shields.io/badge/Website-Homelab-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://jerem.org/)
+[![Website](https://img.shields.io/badge/Website-Homelab-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://jerem.org)
 [![Email](https://img.shields.io/badge/Email-jeremy.lemaire1503%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremy.lemaire1503@gmail.com)
 
 </div>
@@ -228,7 +252,7 @@ Before making a repository public, I always check for:
 
 <div align="center">
 
-### 🐧 Linux • DevOps • Automation • Monitoring • Homelab
+### 🐧 Linux • Automation • Monitoring • Homelab • Self-hosting
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer)
 
