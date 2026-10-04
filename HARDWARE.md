@@ -14,7 +14,7 @@
 ### 🖥️ Infrastructure de Calcul
 
 | Appareil | Marque | Modèle | CPU | RAM | Stockage | GPU | OS | Utilisation |
-|:----------:|:--------:|--------|-----|-----|----------|-----|----|----|
+|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | PC Gaming | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/amdradeoncloud-color.png" width="32" height="32" alt="Intel" /> | DIY | Ryzen 7 - 1800X | 2x 8 Go DDR4 | 480 Go NVMe | NVIDIA GTX 1660 | Windows 10 | Gaming & Dev |
 | Raspberry Pi 5 | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> | RPi 5 | ARM Cortex-A72 | 8 Go RAM | 256 Go NVMe + 480 Go NVMe | Intel Integré | Linux | Docker Host & Primary Homelab |
 | Mac Mini | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A1357 | Intel Core 2 Duo | 6 Go RAM | 250 Go SSD | N/A | macOS | APK Builder |
@@ -26,14 +26,14 @@
 ### 💾 Stockage & NAS
 
 | Appareil | Marque | Modèle | RAID | Capacité | Utilisation | Spécifications |
-|:----------:|:--------:|--------|------|----------|------------|---|
+|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | NAS Mini-ITX | <img src="https://cdn.simpleicons.org/synology/000000" width="32" height="32" alt="Synology" /> | NAS-04 | RAID 5 | 4x 1To (3.6 To utile) | Stockage Principal & Backup | Mini-ITX Form Factor |
 | TrueNAS | <img src="https://cdn.simpleicons.org/truenas/000000" width="32" height="32" alt="TrueNAS" /> | Système | RAID | À configurer | WebDAV & Stockage Distribué | Self-Hosted |
 
 ### 🌐 Réseau & Connectivité
 
 | Composant | Marque | Modèle | Type | Spécifications | Utilisation |
-|:-----------:|:--------:|--------|------|---|---|
+|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Entrée de site | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/orange.png" width="32" height="32" alt="Orange" /> | LiveBox V6 | Firewall | Gestion réseau centralisée | Routage & Sécurité |
 | Switch Réseau | <img src="https://cdn.simpleicons.org/ubiquiti/0099FF" width="32" height="32" alt="Ubiquiti" /> | UniFi Switch 8 60W | PoE Switch | 8 ports + PoE 60W | Alimentation & Données |
 | Routeur/Firewall | <img src="https://cdn.simpleicons.org/ubiquiti/0099FF" width="32" height="32" alt="Ubiquiti" /> | USG (UniFi Security Gateway) | Gateway | Gestion réseau centralisée | Routage & Sécurité |
@@ -44,7 +44,7 @@
 ### 📱 Appareils Portables & Consoles
 
 | Appareil | Marque | Modèle | Écran | Utilisation | OS |
-|:----------:|:--------:|--------|-------|---|---|
+|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | iPad Air 8 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A2429 Cellular 32 Go | 10.9" | Interface Homelab | iPadOS 26.6 |
 | iPad Air 5 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-light.png" width="32" height="32" alt="Apple" /> | A1822 128 Go | 11" | Liseuse & Loisir | iPadOS 16.7.11 |
 | iPad 3 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apple-alt.png" width="32" height="32" alt="Apple" /> | A1416 64 GO | 9.7" | Wallpanel Legacy | iPadOS 9.3.5 |
@@ -53,12 +53,12 @@
 | Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch OLED | 7.0" (OLED) | Gaming | Nintendo Switch OS |
 | Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation4/brand.png" width="32" height="32" alt="PlayStation" /> | PlayStation 4 | 4K | Gaming | PS4 OS |
 | Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation5/brand.png" width="32" height="32" alt="PlayStation" />  | PlayStation 5 | 4K | Gaming Performance | PS5 OS |
-| RecalBox |<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/recalbox.png" width="32" height="32" alt="Raspberry Pi" /> | RPi 3B+ | N/A | Retro Gaming | GNU/Linux |
+| RecalBox |<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/recalbox.png" width="32" height="32" alt="RecalBox" /> | RPi 3B+ | N/A | Retro Gaming | GNU/Linux |
 
 ### ☁️ Infrastructure Distante
 
 | Service | Fournisseur | Type | Configuration | Utilisation |
-|:---------:|:------------:|------|---|---|
+|:----------:|:--------:|:--------:|:--------:|:--------:|
 | Machine Virtuelle | <img src="https://cdn.simpleicons.org/ionos/003D7A" width="32" height="32" alt="IONOS" />  | VPS | VM Linux | Services Cloud & Tests |
 | Machine Virtuelle | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/oracle-cloud.png" width="32" height="32" alt="Oracle" /> | VM | Linux ARM | Infrastructure Distribuée Gratuite |
 
