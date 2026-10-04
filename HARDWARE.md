@@ -45,13 +45,13 @@
 
 | Appareil | Marque | Modèle | Écran | Utilisation | OS |
 |:----------:|:--------:|--------|-------|---|---|
-| iPad Air | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | iPad Air 4 Cellular | 10.9" | Interface Homelab | iPadOS |
-| iPad Air | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | iPad Air 7 | 11" | Dashboard Mobile | iPadOS |
-| iPad | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | iPad 1 | 9.7" | Wallpanel Legacy | iPadOS |
-| Tablette Samsung | <img src="https://cdn.simpleicons.org/samsung/1428A0" width="32" height="32" alt="Samsung" /> | Galaxy Tab A 10 2018 | 10.1" | Affichage Domotique | Android |
-| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch V1 | 6.2" (Portable) | Loisir | Nintendo Switch OS |
-| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch OLED | 7.0" (OLED) | Loisir | Nintendo Switch OS |
-| Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation4/brand.png" width="32" height="32" alt="PlayStation" /> | PlayStation 4 | 4K | Multimédia & Gaming | PS4 OS |
+| iPad Air 8 | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | A2429 Cellular 32 Go | 10.9" | Interface Homelab | iPadOS 26.6 |
+| iPad Air 5 | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | A1822 128 Go | 11" | Liseuse & Loisir | iPadOS 16.7.11 |
+| iPad 3 | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> | A1416 64 GO | 9.7" | Wallpanel Legacy | iPadOS 9.3.5 |
+| Samsung Tab A | <img src="https://cdn.simpleicons.org/samsung/1428A0" width="32" height="32" alt="Samsung" /> | SM-T510 32 Go | 10.1" | Test APK | Android 11 |
+| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch V1 | 6.2" (Portable) | Gaming | Nintendo Switch OS |
+| Console Nintendo | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nintendo-switch.png" width="32" height="32" alt="Nintendo" /> | Switch OLED | 7.0" (OLED) | Gaming | Nintendo Switch OS |
+| Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation4/brand.png" width="32" height="32" alt="PlayStation" /> | PlayStation 4 | 4K | Gaming | PS4 OS |
 | Console Sony | <img src="https://dashboardicons.com/api/icons/external/simpleicons/playstation5/brand.png" width="32" height="32" alt="PlayStation" />  | PlayStation 5 | 4K | Gaming Performance | PS5 OS |
 | RecalBox |<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/recalbox.png" width="32" height="32" alt="Raspberry Pi" /> | RPi 3B+ | N/A | Retro Gaming | GNU/Linux |
 
