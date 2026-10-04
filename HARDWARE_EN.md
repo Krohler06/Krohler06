@@ -20,14 +20,14 @@
 ### 🖥️ Infrastructure de Calcul
 
 | Appareil | Marque | Modèle | CPU | RAM | Stockage | GPU | OS | Utilisation |
-|----------|--------|--------|-----|-----|----------|-----|----|----|
+|:----------:|--------|--------|-----|-----|----------|-----|----|----|
 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="32" height="32" alt="Intel" /> PC Gaming | Intel | i7-1800X | i7-1800X | 2x 8 Go DDR4 | 480 Go NVMe | NVIDIA GTX 1660 | Windows 10 | Gaming & Dev |
 | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> Raspberry Pi 5 | Raspberry Pi | RPi 5 | ARM Cortex-A72 | 8 Go RAM | 256 Go NVMe + 480 Go NVMe | Intel Integré | Linux | Docker Host & Primary Homelab |
 | <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="Apple" /> Mac Mini | Apple | A1357 | Intel Core 2 Duo | 6 Go RAM | 250 Go SSD | N/A | macOS | APK Builder |
 | <img src="https://cdn.simpleicons.org/cubie/000000" width="32" height="32" alt="CubieBoard" /> CubieBoard | Cubieboard | CB4 | ARM A20 | 4 Go RAM | 16 Go eMMC | N/A | Linux | Développement & Tests |
 | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> Raspberry Pi 3 | Raspberry Pi | RPi 3B+ | ARM Cortex-A53 | 1 Go RAM | 32 Go microSD | N/A | Linux | Monitoring Stack |
 | <img src="https://cdn.simpleicons.org/raspberrypi/A22015" width="32" height="32" alt="Raspberry Pi" /> Raspberry Pi 5 Distant | Raspberry Pi | RPi 5 | ARM Cortex-A72 | 8 Go RAM | microSD 128 GO | N/A | Linux | Infrastructure Distribuée |
-| <img src="https://cdn.simpleicons.org/dell/007DB8" width="32" height="32" alt="Dell" /> PC NUC Dell | Dell | D08U | Intel Core i5 | 8 Go RAM | 256 Go SSD | N/A | Linux | Calcul Distribué |
+| <img src="https://cdn.simpleicons.org/dell/007DB8" width="32" height="32" alt="Dell" /> PC NUC Dell | Dell | D08U | Intel Core i5 | 8 Go RAM | 256 Go SSD | N/A | Linux | Bureautique |
 
 ### 💾 Stockage & NAS
 
