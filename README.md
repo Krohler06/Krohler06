@@ -201,7 +201,7 @@ Mon homelab est un environnement d'apprentissage et de validation : je peux y d�
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krohler06&theme=github-compact&hide_border=true&area=true&custom_title=Activité%20GitHub)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krohler06&theme=github-compact&hide_border=true&area=true&custom_title=Activité%20GitHub)]([https://github.com/Krohler06](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 </div>
 
