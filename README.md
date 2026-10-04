@@ -74,7 +74,7 @@ Mon approche : privilégier des systèmes simples à exploiter, observables, sé
 | 🧭 | **Homepage** | Portail opérationnel centralisé pour les services homelab |
 | 🟡 | **Uptime Kuma** | Surveillance de disponibilité et notifications d'incident |
 
-#<a id="homelab"></a>
+<a id="homelab"></a>
 
 ## 🏠 Homelab & self-hosting
 
